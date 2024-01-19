@@ -22,8 +22,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 130281098955
-  numberOfFiles: 2
+  numberOfBytes: 261081372406
+  numberOfFiles: 5
   numberOfSubjects: 1
   schemaKey: AssetsSummary
   species:
@@ -46,7 +46,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2024-01-11T17:58:00.440257+00:00'
-datePublished: '2024-01-11T20:44:14.236604+00:00'
+datePublished: '2024-01-19T18:45:24.049676+00:00'
 description: '<placeholder>
 
   <link to publication>'
@@ -59,13 +59,13 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000784/versions/draft/assets/
 name: vector compositionality Jazayeri Lab
 publishedBy:
-  endDate: '2024-01-11T20:44:14.236604+00:00'
-  id: urn:uuid:94580cbe-a816-4949-a0de-fda2ed944069
+  endDate: '2024-01-19T18:45:24.049676+00:00'
+  id: urn:uuid:cf20e153-8479-4991-8a6c-041efe250766
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-01-11T20:44:14.236604+00:00'
+  startDate: '2024-01-19T18:45:24.049676+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:9fe7a66b-5d7c-4fb2-9c65-80edd4e777f3
+  - id: urn:uuid:67087de2-1f7e-4491-bed6-01ddaba7fa1b
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
